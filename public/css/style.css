@@ -5,6 +5,7 @@
   --dark-color-b: #cee397;
   --dark-color-c: #dd2c00;
   --dark-color-d: #900c3f;
+  --dark-color-e: #af460f;
   --light-color: #eae7d9;
   --success-color: #5cb85c;
   --error-color: #d9534f;
@@ -83,9 +84,10 @@ a {
 
 .chat-sidebar h2 {
   font-size: 20px;
-  background: rgba(0, 0, 0, 0.1);
+  /**background: rgba(0, 0, 0, 0.1);**/
   padding: 10px;
   margin-bottom: 20px;
+  color: #b7472a;
 }
 
 .chat-sidebar h3 {
@@ -94,6 +96,10 @@ a {
 
 .chat-sidebar ul li {
   padding: 10px 0;
+  color: #b7472a;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 20px;
 }
 
 .chat-messages {
