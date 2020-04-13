@@ -17,11 +17,10 @@ const io = socketio(server);
 //set static
 app.use(express.static(path.join(__dirname, 'public')));
 
-const botName = 'ChatCord Bot';
+const botName = 'WeChat Bot';
 
 //run when a client connects
 io.on('connection', (socket) => {
-  //
   socket.on('joinRoom', ({ username, room }) => {
     //create a user with id, username, and room
     const user = userJoin(socket.id, username, room);
@@ -30,7 +29,7 @@ io.on('connection', (socket) => {
 
     //send to client
     //send welcome message to a connecting user
-    socket.emit('message', formatMessage(botName, 'Welcome to ChatCord!'));
+    socket.emit('message', formatMessage(botName, 'Welcome to WeChat!'));
 
     //send msg to client
     //broadcast to the room user has joined
