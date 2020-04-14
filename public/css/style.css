@@ -113,7 +113,7 @@ a {
 }
 
 .chat-messages .message .meta {
-  font-size: 15px;
+  font-size: 20px;
   font-weight: bold;
   color: var(--dark-color-c);
   opacity: 0.7;
@@ -122,6 +122,10 @@ a {
 
 .chat-messages .message .meta span {
   color: #000839;
+}
+
+.chat-messages .message .meta .text {
+  color: white;
 }
 
 .chat-form-container {
