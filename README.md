@@ -5,4 +5,4 @@ In this project, I learned how to use Socket.IO to create a live chat app for us
 
 Thanks goes to Brad Traversy for his tutorial and giving me the idea.
 
-As a follow-up, I am going to create a firebase database to store the text messages and deploy the project to firebase hosting.
+link: https://wechatapp20.herokuapp.com/ 
