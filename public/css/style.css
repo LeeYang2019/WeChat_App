@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 :root {
-  --dark-color-a: #0779e4;
+  --dark-color-a: rgb(0, 0, 0, 0.6);
   --dark-color-b: #eff3c6;
   --dark-color-c: #dd2c00;
   --dark-color-d: #900c3f;
@@ -52,12 +52,11 @@ a {
   background: #fff;
   margin: 30px auto;
   overflow: hidden;
-  border-right: solid var(--dark-color-a) 1px;
 }
 
 .chat-header {
   background: var(--dark-color-a);
-  color: black;
+  color: white;
   padding: 15px;
   display: flex;
   align-items: center;
@@ -72,7 +71,7 @@ a {
 
 .chat-sidebar {
   background: var(--dark-color-b);
-  color: black;
+  color: white;
   padding: 20px 20px 60px;
   overflow-y: scroll;
   grid-row: span 8;
@@ -101,6 +100,8 @@ a {
 .chat-messages {
   padding: 30px;
   max-height: 500px;
+  border-right: solid var(--dark-color-a) 1px;
+  border-left: solid var(--dark-color-a) 1px;
   overflow-y: scroll;
   grid-row: span 7;
 }
@@ -113,7 +114,7 @@ a {
 }
 
 .chat-messages .message .meta {
-  font-size: 20px;
+  font-size: 15px;
   font-weight: bold;
   color: var(--dark-color-c);
   opacity: 0.7;
@@ -124,13 +125,14 @@ a {
   color: #000839;
 }
 
-.chat-messages .message .meta .text {
+.text {
   color: white;
 }
 
 .chat-form-container {
   background-color: var(--dark-color-a);
   border-top: solid var(--dark-color-a) 1px;
+  border-left: solid var(--dark-color-a) 1px;
   grid-row: span 1;
 }
 
@@ -139,6 +141,7 @@ a {
 }
 
 .chat-form-container input[type='text'] {
+  border-right: solid var(--dark-color-a) 1px;
   font-size: 16px;
   padding: 5px;
   height: 40px;
@@ -200,11 +203,9 @@ a {
 }
 
 @media (max-width: 700px) {
-  .chat-container {
-    border: solid blue 1px;
-  }
-
   .chat-main {
+    border-right: solid blue 1px;
+    border-left: solid blue 1px;
     display: block;
   }
 
