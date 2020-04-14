@@ -203,9 +203,13 @@ a {
 }
 
 @media (max-width: 700px) {
+  .chat-form-container {
+    border: solid var(--dark-color-a) 1px;
+  }
+
   .chat-main {
-    border-right: solid blue 1px;
-    border-left: solid blue 1px;
+    border-right: solid var(--dark-color-a) 1px;
+    border-left: solid var(--dark-color-a) 1px;
     display: block;
   }
 
