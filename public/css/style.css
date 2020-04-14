@@ -2,7 +2,7 @@
 
 :root {
   --dark-color-a: #0779e4;
-  --dark-color-b: #cee397;
+  --dark-color-b: #eff3c6;
   --dark-color-c: #dd2c00;
   --dark-color-d: #900c3f;
   --dark-color-e: #af460f;
@@ -126,6 +126,7 @@ a {
 
 .chat-form-container {
   background-color: var(--dark-color-a);
+  border-top: solid var(--dark-color-a) 1px;
   grid-row: span 1;
 }
 
