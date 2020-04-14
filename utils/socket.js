@@ -59,7 +59,3 @@ module.exports.getExpress = () => {
 module.exports.getServer = () => {
   return server;
 };
-
-module.exports.getExpressStatic = () => {
-  return express.static();
-};
