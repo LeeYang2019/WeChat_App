@@ -7,6 +7,7 @@
   --dark-color-d: #900c3f;
   --dark-color-e: #af460f;
   --light-color: #eae7d9;
+  --chat-messages: #f1935c;
   --success-color: #5cb85c;
   --error-color: #d9534f;
 }
@@ -111,7 +112,7 @@ a {
 .chat-messages .message {
   padding: 10px;
   margin-bottom: 15px;
-  background-color: var(--light-color);
+  background-color: var(--chat-messages);
   border-radius: 5px;
 }
 
