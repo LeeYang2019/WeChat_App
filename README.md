@@ -10,7 +10,7 @@ Thanks goes to Brad Traversy for his tutorial and giving me the idea.
 The easiest way to get to the application is through this link: https://wechatapp20.herokuapp.com/ 
 
 # Screen shots of the application
-
+![Uploading Screen Shot 2020-06-10 at 11.15.56 PM.png…]()
 
 # Contributors
 @ Lee Yang
