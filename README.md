@@ -11,12 +11,7 @@ The easiest way to get to the application is through this link: https://wechatap
 
 # Screen shots of the application
 
-![Screen Shot 2020-06-10 at 11 15 56 PM](https://user-images.githubusercontent.com/46943342/84341325-d1a28f80-ab70-11ea-90d5-05217aca00d7.png) 
+![Screen Shot 2020-06-11 at 1 25 15 PM](https://user-images.githubusercontent.com/46943342/84422063-78774200-abea-11ea-9fe2-a9239ca121e6.png)
 
-# Contributors
-@ Lee Yang
-
-# Licensing
-@ Lee Yang
 
 
