@@ -10,10 +10,12 @@ Thanks goes to Brad Traversy for his tutorial and giving me the idea.
 ## Goals
 
 The following are what I learned on the project:
-
-  Gained additional practice working on view engine templating for server side rendering.
-  Gained additional practice working with Nodejs.
-  Worked with socket.io.
+  
+  <ol>
+  <li>Gained additional practice working on view engine templating for server side rendering.</li>
+  <li>Gained additional practice working with Nodejs.</li>
+  <li>Worked with socket.io.</li>
+  </ol>
 
 # Link to deployed application
 The easiest way to get to the application is through this link: https://wechatapp20.herokuapp.com/ 
