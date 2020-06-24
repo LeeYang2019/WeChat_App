@@ -17,10 +17,10 @@ The following are what I learned on the project:
   <li>Worked with socket.io.</li>
   </ol>
 
-# Link to deployed application
+## Link to deployed application
 Link: https://wechatapp20.herokuapp.com/ 
 
-# Screen shots of the application
+## Screen shots of the application
 
 ![Screen Shot 2020-06-11 at 1 25 15 PM](https://user-images.githubusercontent.com/46943342/84422063-78774200-abea-11ea-9fe2-a9239ca121e6.png)
 
