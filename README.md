@@ -18,7 +18,7 @@ The following are what I learned on the project:
   </ol>
 
 # Link to deployed application
-The easiest way to get to the application is through this link: https://wechatapp20.herokuapp.com/ 
+Link: https://wechatapp20.herokuapp.com/ 
 
 # Screen shots of the application
 
