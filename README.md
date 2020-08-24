@@ -8,6 +8,8 @@ In this project, I learned how to use Socket.IO to create a live chat app for us
 
 Thanks goes to Brad Traversy for his tutorial and giving me the idea.
 
+Tech: Nodejs, Socket.io, server-side rendering, JavaScript
+
 ## Goals
 
 The following are what I learned working on the project:
@@ -28,11 +30,9 @@ The following are what I learned working on the project:
 </ol>
 
 ## Link to deployed application
-Link: https://wechatapp20.herokuapp.com/ 
+
+Link: https://wechatapp20.herokuapp.com/
 
 ## Screen shots of the application
 
-![Screen Shot 2020-06-10 at 11 15 56 PM](https://user-images.githubusercontent.com/46943342/84341325-d1a28f80-ab70-11ea-90d5-05217aca00d7.png) 
-
-
-
+![Screen Shot 2020-06-10 at 11 15 56 PM](https://user-images.githubusercontent.com/46943342/84341325-d1a28f80-ab70-11ea-90d5-05217aca00d7.png)
