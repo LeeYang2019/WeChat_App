@@ -8,7 +8,7 @@ In this project, I learned how to use Socket.IO to create a live chat app for us
 
 Thanks goes to Brad Traversy for his tutorial and giving me the idea.
 
-Tech: Nodejs, Socket.io, server-side rendering, JavaScript
+Technologies: Nodejs, Socket.io, server-side rendering, JavaScript
 
 ## Goals
 
